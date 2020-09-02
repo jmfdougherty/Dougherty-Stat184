@@ -1,4 +1,4 @@
-## Douigherty Stat 184 Repo
+## Dougherty Stat 184 Repo
 
 You can use the [editor on GitHub](https://github.com/jmfdougherty/Dougherty-Stat184/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
